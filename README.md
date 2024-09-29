@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 My name is Marcos and I am currently working as a medior software engineer at Capgemini. I've been working with .NET Framework and Core since 2020, from microservices to cloud-native applications in AWS. I also have some experience working in CI/CD environments, building pipelines and IaC. The sectors that I've worked for include healthcare and logistics/industrial. 
 
