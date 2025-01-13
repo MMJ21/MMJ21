@@ -5,3 +5,6 @@ My name is Marcos and I am currently working as a medior software engineer at Ca
 Currently, I keep improving my skills and learning new technologies. I'm currently learning Rust to keep my low-level code on check, and I'm studying to adquire AWS certifications. 
 
 My GitHub doesn't contain much of my code since I don't work on open-source projects, so it's mostly me fooling around with stuff that interests me. Expect to find lots of stuff to laugh at though!
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
