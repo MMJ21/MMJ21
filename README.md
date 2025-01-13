@@ -7,4 +7,5 @@ Currently, I keep improving my skills and learning new technologies. I'm current
 My GitHub doesn't contain much of my code since I don't work on open-source projects, so it's mostly me fooling around with stuff that interests me. Expect to find lots of stuff to laugh at though!
 
 <!--START_SECTION:badges-->
+[![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/02f7bf97-432e-4a1c-8471-40bea490e0c0 "AWS Certified Solutions Architect – Associate")
 <!--END_SECTION:badges-->
